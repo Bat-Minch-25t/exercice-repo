@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Na stari pari.
-=======
 Polovin star moskvich.
->>>>>>> develop
